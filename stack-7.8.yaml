@@ -5,4 +5,5 @@ packages:
 extra-deps:
 - docopt-0.7.0.4
 - hspec-contrib-0.3.0
+- wreq-0.3.0.1
 resolver: lts-2.22
